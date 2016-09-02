@@ -1,6 +1,6 @@
 {
   "name": "Tegaki-jan",
   "tagline": "Handwriting mahjong font",
-  "body": "Tegaki-jan is a handwriting mahjong font.\r\n\r\n![](https://s3-ap-northeast-1.amazonaws.com/mtsmfm/tegaki-jan.png)\r\n\r\n![](https://cdn.rawgit.com/mtsmfm/tegaki-jan/master/svg/man_1.svg)",
+  "body": "Tegaki-jan is a handwriting mahjong font.\r\n\r\n![](https://s3-ap-northeast-1.amazonaws.com/mtsmfm/tegaki-jan.png)\r\n\r\n<img src=\"https://cdn.rawgit.com/mtsmfm/tegaki-jan/master/svg/man_1.svg\" width=\"50px\" />",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
