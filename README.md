@@ -1,6 +1,6 @@
 # Tegaki Jan
 
-Handmade mahjong font
+Handwriting mahjong font
 
 ![](https://s3-ap-northeast-1.amazonaws.com/mtsmfm/tegaki-jan.png)
 
