@@ -1,15 +1,23 @@
 {
   "name": "tegaki-jan",
   "repository": "mtsmfm/tegaki-jan",
-  "version": "1.0.0",
-  "homepage": "https://github.com/mtsmfm/tegaki-jan",
+  "version": "2.0.0",
+  "homepage": "https://mtsmfm.github.io/tegaki-jan",
   "authors": [
     "Fumiaki MATSUSHIMA <mtsmfm@gmail.com>"
   ],
   "description": "Handwriting mahjong font",
-  "fonts": [
-    "tegaki-jan.ttf",
-    "tegaki-jan.woff"
+  "keywords": [
+    "font", "mahjong"
+  ],
+  "ignore": [
+    "*/.*",
+    "src",
+    "*.json",
+    "Gemfile",
+    "Gemfile.lock",
+    "Rakefile",
+    "*.md"
   ],
   "license": "OFL-1.1"
 }

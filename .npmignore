@@ -1,0 +1,7 @@
+*/.*
+src
+*.json
+Gemfile
+Gemfile.lock
+Rakefile
+*.md
